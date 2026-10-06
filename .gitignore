@@ -1,0 +1,10 @@
+settings.json
+bot_data.db
+bot_data.db-wal
+bot_data.db-shm
+smsbot.log
+.reload_flag
+__pycache__/
+*.migrated
+venv/
+*.pyc
